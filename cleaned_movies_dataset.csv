@@ -1,0 +1,11 @@
+MovieID,Title,Genre,ReleaseYear,Rating,Duration,Director,BoxOffice
+1,Joker,Drama,2019-01-01,8.5,122,Todd Phillips,1074251311.0
+2,The Dark Knight,Action,2008-01-01,9.0,152,Christopher Nolan,1004558444.0
+4,Titanic,Romance,1997-01-01,7.8,195,James Cameron,2187463944.0
+5,Inception,Sci-Fi,2010-01-01,8.8,148,Christopher Nolan,829895144.0
+6,Avengers: Endgame,Action,2019-01-01,8.4,181,Anthony Russo,2799439100.0
+8,Avatar,Sci-Fi,2009-01-01,7.9,162,James Cameron,2847246203.0
+9,Frozen,Animation,2013-01-01,7.4,102,Unknown,1276480335.0
+12,Interstellar,Sci-Fi,2014-01-01,8.6,169,Christopher Nolan,1074251311.0
+15,The Matrix,Sci-Fi,1999-01-01,8.7,136,Lana Wachowski,466364845.0
+57,Gladiator,Action,2000-01-01,8.5,155,Ridley Scott,460583960.0

@@ -1,0 +1,501 @@
+MovieID,Title,Genre,ReleaseYear,Rating,Duration,Director,BoxOffice
+1,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+2,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+3,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+4,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+5,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+6,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+7,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+8,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+9,Frozen,Animation,2013,7.4,102,,1276480335.0
+10,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+11,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+12,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+13,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+14,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+15,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+16,The Dark Knight,Action,2008,9.0,152,,1004558444.0
+17,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+18,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+19,Avatar,Sci-Fi,2009,7.9,162,James Cameron,
+20,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+21,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+22,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+23,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+24,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+25,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+26,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+27,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+28,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+29,The Matrix,Sci-Fi,1999,8.7,136,,
+30,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+31,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+32,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+33,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+34,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+35,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+36,Frozen,Animation,2013,7.4,102,,1276480335.0
+37,Avatar,Sci-Fi,2009,,162,James Cameron,2847246203.0
+38,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+39,Titanic,Romance,1997,,195,James Cameron,2187463944.0
+40,Inception,Sci-Fi,2010,8.8,148,,829895144.0
+41,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+42,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+43,Frozen,Animation,2013,7.4,102,,1276480335.0
+44,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+45,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+46,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+47,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+48,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,
+49,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+50,Avatar,Sci-Fi,2009,,162,James Cameron,2847246203.0
+51,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+52,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+53,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+54,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+55,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+56,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+57,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+58,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+59,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,
+60,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,
+61,Inception,Sci-Fi,2010,,148,,829895144.0
+62,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+63,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+64,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+65,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+66,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+67,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+68,The Matrix,Sci-Fi,1999,,136,Lana Wachowski,466364845.0
+69,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+70,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+71,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+72,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+73,Joker,Drama,2019,8.5,122,,1074251311.0
+74,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+75,Gladiator,Action,2000,8.5,155,,460583960.0
+76,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+77,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+78,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+79,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+80,Joker,Drama,2019,8.5,122,,1074251311.0
+81,Joker,Drama,2019,8.5,122,Todd Phillips,
+82,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+83,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+84,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+85,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+86,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+87,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+88,Frozen,Animation,2013,7.4,102,,1276480335.0
+89,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+90,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+91,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,
+92,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+93,Frozen,Animation,2013,7.4,102,,1276480335.0
+94,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+95,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+96,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,
+97,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+98,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+99,Frozen,Animation,2013,,102,,1276480335.0
+100,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+101,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+102,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+103,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,
+104,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+105,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+106,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+107,The Dark Knight,Action,2008,,152,Christopher Nolan,1004558444.0
+108,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+109,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+110,The Matrix,Sci-Fi,1999,8.7,136,,466364845.0
+111,The Dark Knight,Action,2008,9.0,152,,1004558444.0
+112,Avengers: Endgame,Action,2019,,181,Anthony Russo,2799439100.0
+113,Titanic,Romance,1997,7.8,195,,2187463944.0
+114,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+115,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+116,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+117,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+118,Titanic,Romance,1997,7.8,195,James Cameron,
+119,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+120,Inception,Sci-Fi,2010,8.8,148,,829895144.0
+121,Titanic,Romance,1997,7.8,195,James Cameron,
+122,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+123,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+124,Joker,Drama,2019,,122,Todd Phillips,1074251311.0
+125,Frozen,Animation,2013,7.4,102,,1276480335.0
+126,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+127,Frozen,Animation,2013,7.4,102,,1276480335.0
+128,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+129,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+130,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+131,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+132,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+133,Frozen,Animation,2013,7.4,102,,1276480335.0
+134,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+135,Joker,Drama,2019,8.5,122,Todd Phillips,
+136,Frozen,Animation,2013,7.4,102,,1276480335.0
+137,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+138,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+139,Frozen,Animation,2013,7.4,102,,1276480335.0
+140,Frozen,Animation,2013,7.4,102,,1276480335.0
+141,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+142,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+143,Titanic,Romance,1997,,195,James Cameron,2187463944.0
+144,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+145,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+146,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+147,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+148,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,
+149,Frozen,Animation,2013,7.4,102,,1276480335.0
+150,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+151,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+152,Gladiator,Action,2000,8.5,155,Ridley Scott,
+153,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+154,The Dark Knight,Action,2008,9.0,152,,1004558444.0
+155,Interstellar,Sci-Fi,2014,,169,Christopher Nolan,
+156,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+157,Gladiator,Action,2000,8.5,155,Ridley Scott,
+158,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+159,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+160,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+161,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+162,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+163,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+164,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+165,Avengers: Endgame,Action,2019,8.4,181,,2799439100.0
+166,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+167,Joker,Drama,2019,8.5,122,Todd Phillips,
+168,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+169,Frozen,Animation,2013,7.4,102,,1276480335.0
+170,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+171,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+172,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+173,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+174,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+175,Frozen,Animation,2013,7.4,102,,1276480335.0
+176,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+177,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+178,Gladiator,Action,2000,,155,Ridley Scott,460583960.0
+179,Titanic,Romance,1997,7.8,195,,2187463944.0
+180,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+181,Gladiator,Action,2000,8.5,155,,460583960.0
+182,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+183,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+184,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+185,Inception,Sci-Fi,2010,,148,Christopher Nolan,829895144.0
+186,Avatar,Sci-Fi,2009,7.9,162,James Cameron,
+187,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+188,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+189,Frozen,Animation,2013,7.4,102,,1276480335.0
+190,Frozen,Animation,2013,7.4,102,,1276480335.0
+191,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+192,Titanic,Romance,1997,,195,James Cameron,2187463944.0
+193,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+194,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+195,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+196,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+197,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+198,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+199,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,
+200,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+201,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+202,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+203,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+204,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+205,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+206,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+207,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+208,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+209,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+210,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+211,Titanic,Romance,1997,,195,James Cameron,2187463944.0
+212,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+213,Joker,Drama,2019,,122,Todd Phillips,1074251311.0
+214,The Dark Knight,Action,2008,9.0,152,,1004558444.0
+215,Frozen,Animation,2013,7.4,102,,
+216,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+217,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+218,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+219,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+220,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+221,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+222,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+223,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+224,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+225,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+226,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+227,Interstellar,Sci-Fi,2014,8.6,169,,
+228,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+229,Frozen,Animation,2013,,102,,1276480335.0
+230,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+231,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+232,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+233,Frozen,Animation,2013,7.4,102,,1276480335.0
+234,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+235,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,
+236,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+237,Avatar,Sci-Fi,2009,7.9,162,James Cameron,
+238,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+239,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+240,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+241,The Dark Knight,Action,2008,9.0,152,,1004558444.0
+242,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+243,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+244,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+245,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+246,Avengers: Endgame,Action,2019,8.4,181,,2799439100.0
+247,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+248,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+249,Frozen,Animation,2013,7.4,102,,1276480335.0
+250,Interstellar,Sci-Fi,2014,8.6,169,,
+251,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+252,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+253,Joker,Drama,2019,8.5,122,Todd Phillips,
+254,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+255,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+256,The Matrix,Sci-Fi,1999,,136,Lana Wachowski,466364845.0
+257,Frozen,Animation,2013,7.4,102,,1276480335.0
+258,Interstellar,Sci-Fi,2014,8.6,169,,
+259,Frozen,Animation,2013,7.4,102,,1276480335.0
+260,Frozen,Animation,2013,7.4,102,,1276480335.0
+261,Avengers: Endgame,Action,2019,,181,Anthony Russo,2799439100.0
+262,Avatar,Sci-Fi,2009,7.9,162,,2847246203.0
+263,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+264,Avengers: Endgame,Action,2019,,181,Anthony Russo,
+265,Frozen,Animation,2013,7.4,102,,1276480335.0
+266,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+267,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+268,Inception,Sci-Fi,2010,,148,Christopher Nolan,829895144.0
+269,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+270,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+271,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+272,Frozen,Animation,2013,7.4,102,,1276480335.0
+273,Joker,Drama,2019,8.5,122,Todd Phillips,
+274,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+275,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+276,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,
+277,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+278,Frozen,Animation,2013,7.4,102,,
+279,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+280,Frozen,Animation,2013,7.4,102,,1276480335.0
+281,Frozen,Animation,2013,7.4,102,,1276480335.0
+282,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+283,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+284,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+285,Frozen,Animation,2013,7.4,102,,1276480335.0
+286,Frozen,Animation,2013,7.4,102,,1276480335.0
+287,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+288,Frozen,Animation,2013,7.4,102,,1276480335.0
+289,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+290,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+291,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+292,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+293,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+294,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+295,Frozen,Animation,2013,,102,,1276480335.0
+296,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+297,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+298,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+299,Inception,Sci-Fi,2010,8.8,148,,829895144.0
+300,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+301,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+302,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+303,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+304,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+305,The Dark Knight,Action,2008,,152,Christopher Nolan,1004558444.0
+306,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+307,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+308,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+309,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,
+310,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+311,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+312,Joker,Drama,2019,8.5,122,,1074251311.0
+313,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+314,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+315,The Dark Knight,Action,2008,9.0,152,,1004558444.0
+316,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+317,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+318,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+319,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+320,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+321,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+322,Inception,Sci-Fi,2010,8.8,148,,829895144.0
+323,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+324,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+325,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+326,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+327,Titanic,Romance,1997,,195,James Cameron,2187463944.0
+328,Frozen,Animation,2013,,102,,1276480335.0
+329,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+330,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+331,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+332,Inception,Sci-Fi,2010,,148,Christopher Nolan,829895144.0
+333,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+334,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+335,Frozen,Animation,2013,7.4,102,,1276480335.0
+336,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+337,Frozen,Animation,2013,7.4,102,,1276480335.0
+338,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+339,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,
+340,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+341,Frozen,Animation,2013,7.4,102,,1276480335.0
+342,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+343,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+344,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+345,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+346,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+347,Avatar,Sci-Fi,2009,,162,James Cameron,2847246203.0
+348,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+349,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+350,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+351,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+352,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+353,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+354,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+355,The Matrix,Sci-Fi,1999,8.7,136,,466364845.0
+356,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+357,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+358,Frozen,Animation,2013,7.4,102,,1276480335.0
+359,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+360,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+361,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+362,Frozen,Animation,2013,,102,,1276480335.0
+363,Joker,Drama,2019,8.5,122,Todd Phillips,
+364,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+365,Joker,Drama,2019,,122,Todd Phillips,1074251311.0
+366,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+367,Gladiator,Action,2000,,155,Ridley Scott,460583960.0
+368,Frozen,Animation,2013,7.4,102,,1276480335.0
+369,Gladiator,Action,2000,8.5,155,,460583960.0
+370,Avatar,Sci-Fi,2009,7.9,162,,2847246203.0
+371,Gladiator,Action,2000,8.5,155,,460583960.0
+372,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+373,Frozen,Animation,2013,,102,,1276480335.0
+374,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+375,The Matrix,Sci-Fi,1999,,136,Lana Wachowski,466364845.0
+376,The Matrix,Sci-Fi,1999,,136,Lana Wachowski,466364845.0
+377,Avatar,Sci-Fi,2009,,162,James Cameron,2847246203.0
+378,Gladiator,Action,2000,8.5,155,Ridley Scott,
+379,Frozen,Animation,2013,7.4,102,,1276480335.0
+380,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+381,Avatar,Sci-Fi,2009,7.9,162,James Cameron,
+382,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+383,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+384,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+385,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+386,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+387,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+388,The Dark Knight,Action,2008,9.0,152,,1004558444.0
+389,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+390,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+391,Frozen,Animation,2013,7.4,102,,1276480335.0
+392,Interstellar,Sci-Fi,2014,,169,Christopher Nolan,
+393,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+394,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+395,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+396,Frozen,Animation,2013,7.4,102,,1276480335.0
+397,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+398,Frozen,Animation,2013,7.4,102,,1276480335.0
+399,Frozen,Animation,2013,,102,,1276480335.0
+400,Joker,Drama,2019,8.5,122,Todd Phillips,
+401,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+402,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+403,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+404,Frozen,Animation,2013,7.4,102,,1276480335.0
+405,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+406,Titanic,Romance,1997,,195,James Cameron,2187463944.0
+407,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+408,Avatar,Sci-Fi,2009,,162,James Cameron,2847246203.0
+409,Interstellar,Sci-Fi,2014,,169,,
+410,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+411,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,
+412,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+413,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+414,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+415,Joker,Drama,2019,,122,Todd Phillips,1074251311.0
+416,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+417,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+418,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+419,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+420,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+421,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+422,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+423,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+424,Titanic,Romance,1997,7.8,195,,
+425,Joker,Drama,2019,8.5,122,,1074251311.0
+426,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+427,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+428,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+429,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+430,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+431,Avatar,Sci-Fi,2009,7.9,162,James Cameron,
+432,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+433,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,
+434,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+435,Inception,Sci-Fi,2010,,148,Christopher Nolan,829895144.0
+436,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+437,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+438,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+439,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+440,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,
+441,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+442,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+443,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+444,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+445,The Dark Knight,Action,2008,9.0,152,,1004558444.0
+446,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+447,Inception,Sci-Fi,2010,8.8,148,,829895144.0
+448,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+449,The Matrix,Sci-Fi,1999,,136,Lana Wachowski,466364845.0
+450,The Matrix,Sci-Fi,1999,,136,,466364845.0
+451,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,
+452,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+453,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+454,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+455,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+456,The Matrix,Sci-Fi,1999,8.7,136,,466364845.0
+457,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,
+458,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+459,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+460,Interstellar,Sci-Fi,2014,,169,Christopher Nolan,
+461,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+462,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+463,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+464,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+465,Frozen,Animation,2013,,102,,1276480335.0
+466,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+467,Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,829895144.0
+468,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+469,Avengers: Endgame,Action,2019,8.4,181,,2799439100.0
+470,Joker,Drama,2019,8.5,122,,1074251311.0
+471,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+472,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
+473,Inception,Sci-Fi,2010,8.8,148,,829895144.0
+474,The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1004558444.0
+475,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+476,Gladiator,Action,2000,8.5,155,Ridley Scott,460583960.0
+477,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+478,The Dark Knight,Action,2008,,152,Christopher Nolan,1004558444.0
+479,Gladiator,Action,2000,8.5,155,Ridley Scott,
+480,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+481,Interstellar,Sci-Fi,2014,8.6,169,Christopher Nolan,
+482,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+483,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+484,Frozen,Animation,2013,7.4,102,,
+485,Interstellar,Sci-Fi,2014,,169,Christopher Nolan,
+486,Avatar,Sci-Fi,2009,7.9,162,,2847246203.0
+487,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+488,Avengers: Endgame,Action,2019,8.4,181,Anthony Russo,2799439100.0
+489,Frozen,Animation,2013,7.4,102,,
+490,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+491,The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,466364845.0
+492,Frozen,Animation,2013,,102,,1276480335.0
+493,Inception,Sci-Fi,2010,8.8,148,,829895144.0
+494,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+495,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+496,Gladiator,Action,2000,8.5,155,Ridley Scott,
+497,Avatar,Sci-Fi,2009,7.9,162,James Cameron,2847246203.0
+498,Joker,Drama,2019,8.5,122,Todd Phillips,1074251311.0
+499,Titanic,Romance,1997,7.8,195,,2187463944.0
+500,Titanic,Romance,1997,7.8,195,James Cameron,2187463944.0
