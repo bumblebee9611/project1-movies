@@ -1,0 +1,551 @@
+Movie_ID,Title,Genre,Release_Year,Duration_Minutes,IMDb_Rating,Box_Office_Millions,Language,Country,Director,Budget_Millions,Profit_Millions
+1,Movie_1,Romance,1997,111,6.0,123,French,USA,Director E,62,61
+2,Movie_2,Sci-Fi,1982,83,5.4,1268,Hindi,UK,Director E,49,1219
+3,Movie_3,Drama,2021,169,7.5,1177,Hindi,Japan,Director E,18,1159
+4,Movie_4,Animation,1980,177,8.6,1814,French,Japan,Director C,147,1667
+5,Movie_5,Drama,2001,93,5.4,475,English,South Korea,Director C,147,328
+6,Movie_6,Action,2009,148,5.6,1802,Japanese,USA,Director E,140,1662
+7,Movie_7,Romance,2019,193,8.9,1863,Spanish,India,Director A,155,1708
+8,Movie_8,Drama,1998,90,8.8,1392,English,Japan,Director C,28,1364
+9,Movie_9,Animation,2003,100,6.7,1548,Hindi,France,Director C,237,1311
+10,Movie_10,Romance,1990,148,8.3,1298,Hindi,Japan,Director D,41,1257
+11,Movie_11,Romance,2024,151,6.0,2048,Korean,USA,Director B,143,1905
+12,Movie_12,Comedy,2005,114,5.3,1679,Spanish,France,Director C,21,1658
+13,Movie_13,Sci-Fi,2005,193,9.1,1465,Japanese,India,Director C,113,1352
+14,Movie_14,Romance,2015,148,6.2,591,Spanish,Japan,Director E,76,515
+15,Movie_15,Drama,1988,145,7.2,960,English,USA,Director B,209,751
+16,Movie_16,Romance,2007,156,5.3,1718,Japanese,UK,Director D,86,1632
+17,Movie_17,Thriller,1980,167,8.2,799,French,UK,Director C,275,524
+18,Movie_18,Comedy,2007,100,7.0,417,French,France,Director C,179,238
+19,Movie_19,Drama,2012,196,5.5,1831,French,South Korea,Director E,261,1570
+20,Movie_20,Comedy,1990,149,9.3,429,Spanish,USA,Director E,106,323
+21,Movie_21,Action,1987,198,6.6,1180,Korean,India,Director A,170,1010
+22,Movie_22,Thriller,1985,90,8.3,1936,English,UK,Director B,128,1808
+23,Movie_23,Sci-Fi,2015,101,6.2,1431,Spanish,Japan,Director B,70,1361
+24,Movie_24,Romance,2024,105,8.2,1837,Japanese,France,Director C,281,1556
+25,Movie_25,Thriller,2008,95,6.1,2081,English,South Korea,Director A,229,1852
+26,Movie_26,Thriller,1994,80,5.3,769,French,USA,Director B,288,481
+27,Movie_27,Action,2001,89,7.3,1903,Korean,France,Director D,39,1864
+28,Movie_28,Drama,2016,153,7.1,1228,Japanese,Japan,Director B,114,1114
+29,Movie_29,Romance,2007,125,6.9,261,Japanese,France,Director A,53,208
+30,Movie_30,Sci-Fi,2001,182,8.9,189,Hindi,India,Director B,55,134
+31,Movie_31,Drama,2007,103,6.3,1207,Hindi,USA,Director D,279,928
+32,Movie_32,Action,2021,149,8.8,496,English,India,Director B,286,210
+33,Movie_33,Sci-Fi,1993,190,6.8,1217,English,India,Director D,213,1004
+34,Movie_34,Comedy,2009,116,6.9,815,French,UK,Director D,6,809
+35,Movie_35,Comedy,1993,87,7.6,482,Spanish,USA,Director C,84,398
+36,Movie_36,Thriller,2010,144,9.1,146,Spanish,India,Director A,34,112
+37,Movie_37,Animation,1991,88,7.7,439,French,India,Director D,265,174
+38,Movie_38,Thriller,1995,154,7.7,2004,Spanish,USA,Director D,66,1938
+39,Movie_39,Comedy,1996,106,8.0,1374,Korean,India,Director C,294,1080
+40,Movie_40,Romance,2021,118,7.1,485,English,USA,Director D,207,278
+41,Movie_41,Action,2014,107,7.3,507,Hindi,South Korea,Director A,293,214
+42,Movie_42,Comedy,1990,136,8.8,896,French,South Korea,Director E,130,766
+43,Movie_43,Romance,2015,118,9.2,301,English,India,Director C,275,26
+44,Movie_44,Action,2015,99,6.2,1896,Spanish,India,Director C,64,1832
+45,Movie_45,Romance,1996,144,7.2,1526,English,USA,Director D,109,1417
+46,Movie_46,Action,2001,178,5.6,246,Korean,India,Director D,146,100
+47,Movie_47,Sci-Fi,2015,81,5.5,1742,French,India,Director E,287,1455
+48,Movie_48,Comedy,2017,150,5.7,1742,Hindi,USA,Director C,23,1719
+49,Movie_49,Animation,1982,195,6.6,2042,French,India,Director A,191,1851
+50,Movie_50,Thriller,2006,159,8.4,1793,Hindi,India,Director B,186,1607
+51,Movie_51,Drama,2001,180,9.2,276,French,France,Director B,216,60
+52,Movie_52,Animation,2024,93,6.7,477,English,Japan,Director B,141,336
+53,Movie_53,Sci-Fi,2002,119,8.7,1789,Hindi,India,Director A,107,1682
+54,Movie_54,Comedy,1997,190,5.3,929,Korean,South Korea,Director E,103,826
+55,Movie_55,Animation,2014,122,9.2,1610,English,South Korea,Director B,209,1401
+56,Movie_56,Action,2018,135,6.6,228,Korean,Japan,Director E,140,88
+57,Movie_57,Sci-Fi,2016,104,6.1,512,French,Japan,Director A,266,246
+58,Movie_58,Animation,2014,167,8.2,2176,French,France,Director B,271,1905
+59,Movie_59,Action,2022,197,6.5,1084,Korean,France,Director A,191,893
+60,Movie_60,Comedy,2022,132,6.5,1206,French,South Korea,Director E,158,1048
+61,Movie_61,Sci-Fi,2022,200,6.7,472,French,India,Director E,70,402
+62,Movie_62,Sci-Fi,2015,186,5.0,922,Korean,India,Director D,296,626
+63,Movie_63,Sci-Fi,2008,166,6.0,1131,Japanese,France,Director B,169,962
+64,Movie_64,Thriller,2022,161,7.8,639,English,India,Director C,48,591
+65,Movie_65,Drama,1989,83,5.2,1781,Japanese,UK,Director A,120,1661
+66,Movie_66,Romance,2016,104,8.2,1096,Japanese,Japan,Director D,238,858
+67,Movie_67,Romance,2024,80,9.0,441,English,Japan,Director B,129,312
+68,Movie_68,Romance,2013,139,5.2,1751,Hindi,USA,Director D,95,1656
+69,Movie_69,Sci-Fi,2022,147,9.4,1724,Spanish,South Korea,Director D,73,1651
+70,Movie_70,Animation,2015,137,9.0,1146,French,Japan,Director D,263,883
+71,Movie_71,Drama,2020,115,8.4,1686,Spanish,Japan,Director B,137,1549
+72,Movie_72,Action,1998,110,6.2,1055,Korean,UK,Director A,145,910
+73,Movie_73,Drama,2004,168,5.7,393,Hindi,USA,Director D,75,318
+74,Movie_74,Thriller,2009,133,5.3,900,Japanese,Japan,Director E,213,687
+75,Movie_75,Animation,2016,128,7.1,1779,Korean,South Korea,Director D,15,1764
+76,Movie_76,Romance,2014,182,7.7,1331,Hindi,Japan,Director B,219,1112
+77,Movie_77,Sci-Fi,1981,129,6.5,1046,French,Japan,Director B,144,902
+78,Movie_78,Drama,2019,148,5.1,2137,Japanese,UK,Director E,244,1893
+79,Movie_79,Romance,2007,97,8.9,199,Hindi,USA,Director C,18,181
+80,Movie_80,Drama,2009,121,6.5,879,Japanese,South Korea,Director D,199,680
+81,Movie_81,Action,2010,82,8.4,1853,English,South Korea,Director B,134,1719
+82,Movie_82,Romance,1982,176,5.1,1649,Hindi,India,Director A,40,1609
+83,Movie_83,Drama,2010,165,5.5,581,Hindi,Japan,Director C,83,498
+84,Movie_84,Thriller,2018,175,8.2,546,Hindi,South Korea,Director A,193,353
+85,Movie_85,Comedy,2016,166,9.1,1930,Japanese,Japan,Director B,18,1912
+86,Movie_86,Romance,2020,111,5.5,1265,Korean,France,Director E,43,1222
+87,Movie_87,Thriller,1982,124,7.4,1706,French,South Korea,Director A,66,1640
+88,Movie_88,Comedy,1980,188,6.9,1600,Japanese,USA,Director D,264,1336
+89,Movie_89,Animation,2009,170,5.7,1501,Hindi,France,Director E,190,1311
+90,Movie_90,Animation,2014,179,7.2,1414,Japanese,France,Director E,143,1271
+91,Movie_91,Animation,1995,186,9.2,812,Korean,Japan,Director B,142,670
+92,Movie_92,Thriller,2022,128,6.5,1419,Japanese,South Korea,Director B,242,1177
+93,Movie_93,Comedy,1996,123,6.3,698,Spanish,France,Director C,254,444
+94,Movie_94,Thriller,1992,90,6.1,319,Japanese,Japan,Director E,289,30
+95,Movie_95,Sci-Fi,2021,171,7.2,1552,English,USA,Director C,128,1424
+96,Movie_96,Romance,1995,119,8.0,956,Korean,Japan,Director E,118,838
+97,Movie_97,Sci-Fi,2015,122,6.6,990,Japanese,South Korea,Director C,276,714
+98,Movie_98,Action,1992,120,5.5,615,Spanish,France,Director B,133,482
+99,Movie_99,Romance,2010,115,8.3,556,Spanish,UK,Director C,103,453
+100,Movie_100,Drama,1998,109,6.6,1771,Korean,USA,Director E,56,1715
+101,Movie_101,Action,1983,150,6.3,640,Hindi,France,Director D,69,571
+102,Movie_102,Action,2016,116,7.1,1854,Japanese,South Korea,Director B,57,1797
+103,Movie_103,Animation,2010,94,8.7,558,Japanese,Japan,Director A,31,527
+104,Movie_104,Romance,1983,99,5.7,1599,Spanish,South Korea,Director A,300,1299
+105,Movie_105,Thriller,2006,157,7.7,384,Spanish,India,Director E,132,252
+106,Movie_106,Sci-Fi,1999,190,7.6,1131,Japanese,South Korea,Director E,199,932
+107,Movie_107,Romance,1986,177,5.9,1293,Hindi,South Korea,Director A,35,1258
+108,Movie_108,Drama,2015,89,5.7,586,Japanese,Japan,Director E,85,501
+109,Movie_109,Action,1994,116,8.2,851,French,Japan,Director A,245,606
+110,Movie_110,Comedy,2020,155,8.0,2026,Hindi,Japan,Director A,124,1902
+111,Movie_111,Romance,1989,196,6.2,753,Hindi,USA,Director A,283,470
+112,Movie_112,Comedy,2018,175,8.7,1722,Korean,Japan,Director A,89,1633
+113,Movie_113,Comedy,2024,131,9.2,1664,Spanish,UK,Director D,244,1420
+114,Movie_114,Thriller,1982,193,6.9,403,Korean,UK,Director C,229,174
+115,Movie_115,Drama,2023,187,8.9,215,Spanish,USA,Director C,18,197
+116,Movie_116,Animation,1991,140,7.3,392,Japanese,South Korea,Director B,300,92
+117,Movie_117,Animation,2011,91,7.1,1538,Japanese,South Korea,Director C,228,1310
+118,Movie_118,Drama,2001,132,8.1,1824,Korean,France,Director D,58,1766
+119,Movie_119,Sci-Fi,1985,120,6.1,371,English,Japan,Director E,286,85
+120,Movie_120,Animation,2014,139,6.9,1361,Hindi,UK,Director C,5,1356
+121,Movie_121,Sci-Fi,1983,106,6.2,1550,Hindi,South Korea,Director D,260,1290
+122,Movie_122,Action,2020,157,8.6,511,French,India,Director C,253,258
+123,Movie_123,Thriller,2006,91,6.0,325,English,Japan,Director A,287,38
+124,Movie_124,Romance,1998,145,8.2,1113,Japanese,Japan,Director D,83,1030
+125,Movie_125,Thriller,1989,129,5.9,1074,Spanish,UK,Director B,129,945
+126,Movie_126,Animation,2006,123,9.2,615,Spanish,South Korea,Director A,40,575
+127,Movie_127,Comedy,2017,154,9.5,1645,Japanese,India,Director D,149,1496
+128,Movie_128,Comedy,2001,150,8.4,1281,Japanese,Japan,Director C,280,1001
+129,Movie_129,Drama,2016,129,6.1,1539,Japanese,USA,Director C,101,1438
+130,Movie_130,Animation,2004,129,9.4,1701,French,India,Director D,247,1454
+131,Movie_131,Thriller,2017,122,8.9,291,Japanese,USA,Director E,23,268
+132,Movie_132,Romance,1989,132,8.9,279,Hindi,USA,Director D,238,41
+133,Movie_133,Thriller,2024,130,7.9,843,Korean,France,Director E,140,703
+134,Movie_134,Comedy,2020,171,9.0,2163,Japanese,UK,Director A,199,1964
+135,Movie_135,Romance,2023,197,6.3,530,Hindi,France,Director A,40,490
+136,Movie_136,Animation,2020,170,8.9,438,Japanese,India,Director C,227,211
+137,Movie_137,Comedy,1983,117,6.6,123,Japanese,India,Director B,19,104
+138,Movie_138,Thriller,2023,181,5.8,1129,Hindi,USA,Director E,276,853
+139,Movie_139,Romance,1995,143,9.1,1479,Hindi,India,Director D,200,1279
+140,Movie_140,Comedy,2022,81,9.0,1086,Japanese,South Korea,Director E,135,951
+141,Movie_141,Sci-Fi,2002,155,6.3,246,Japanese,France,Director C,85,161
+142,Movie_142,Comedy,1992,129,8.8,1979,English,India,Director D,238,1741
+143,Movie_143,Thriller,1998,169,6.3,1042,French,Japan,Director C,297,745
+144,Movie_144,Animation,2023,179,8.4,1178,English,UK,Director D,9,1169
+145,Movie_145,Animation,1994,157,8.6,1749,Hindi,France,Director B,151,1598
+146,Movie_146,Animation,2022,167,8.8,1531,French,USA,Director A,133,1398
+147,Movie_147,Sci-Fi,1982,154,6.6,1788,Hindi,USA,Director C,163,1625
+148,Movie_148,Sci-Fi,1991,105,5.6,1712,Spanish,South Korea,Director E,172,1540
+149,Movie_149,Comedy,1990,112,9.1,2141,Japanese,South Korea,Director C,261,1880
+150,Movie_150,Action,1989,176,9.3,1032,French,France,Director D,63,969
+151,Movie_151,Action,2005,81,6.2,1049,English,Japan,Director C,290,759
+152,Movie_152,Sci-Fi,2020,200,6.7,1346,French,India,Director D,139,1207
+153,Movie_153,Thriller,2000,197,7.7,1295,French,USA,Director D,17,1278
+154,Movie_154,Sci-Fi,1987,97,5.2,1498,English,South Korea,Director D,159,1339
+155,Movie_155,Drama,2014,97,6.7,273,Korean,France,Director E,64,209
+156,Movie_156,Romance,1989,193,6.9,1431,English,Japan,Director E,219,1212
+157,Movie_157,Comedy,1982,168,6.7,2146,Japanese,Japan,Director B,213,1933
+158,Movie_158,Romance,2003,149,9.1,403,French,South Korea,Director A,190,213
+159,Movie_159,Drama,1987,188,8.7,783,English,France,Director B,208,575
+160,Movie_160,Animation,2001,111,9.4,128,Spanish,India,Director A,15,113
+161,Movie_161,Thriller,1993,184,8.9,722,Korean,India,Director E,288,434
+162,Movie_162,Animation,1989,96,7.4,583,Hindi,USA,Director A,6,577
+163,Movie_163,Comedy,1995,155,6.5,112,Hindi,South Korea,Director A,72,40
+164,Movie_164,Sci-Fi,2013,94,8.4,1598,Japanese,Japan,Director C,69,1529
+165,Movie_165,Action,2008,144,6.0,1492,Spanish,USA,Director E,267,1225
+166,Movie_166,Romance,1981,87,9.5,1107,Japanese,Japan,Director A,159,948
+167,Movie_167,Sci-Fi,1984,195,5.4,1724,Spanish,India,Director A,256,1468
+168,Movie_168,Thriller,2020,154,7.5,642,Korean,Japan,Director E,69,573
+169,Movie_169,Sci-Fi,2012,157,6.9,889,French,USA,Director E,276,613
+170,Movie_170,Sci-Fi,1994,132,6.5,1005,Japanese,Japan,Director D,115,890
+171,Movie_171,Sci-Fi,2000,165,6.1,703,Hindi,France,Director D,53,650
+172,Movie_172,Animation,1985,91,6.9,235,French,France,Director C,39,196
+173,Movie_173,Action,2017,151,7.5,1220,French,USA,Director D,71,1149
+174,Movie_174,Romance,2007,191,9.1,1985,English,South Korea,Director E,186,1799
+175,Movie_175,Action,2016,144,6.0,894,French,Japan,Director B,164,730
+176,Movie_176,Animation,2015,127,5.5,787,Korean,UK,Director B,60,727
+177,Movie_177,Thriller,2019,158,8.0,1964,Spanish,USA,Director E,224,1740
+178,Movie_178,Drama,1997,169,8.4,210,Korean,South Korea,Director A,141,69
+179,Movie_179,Drama,2016,164,6.8,1888,Hindi,France,Director A,97,1791
+180,Movie_180,Thriller,1993,128,6.9,1589,Korean,India,Director C,51,1538
+181,Movie_181,Comedy,2016,156,5.4,1651,English,India,Director B,164,1487
+182,Movie_182,Action,1997,136,8.0,1420,Japanese,UK,Director D,30,1390
+183,Movie_183,Drama,2012,94,6.6,786,English,South Korea,Director E,217,569
+184,Movie_184,Romance,1999,85,6.0,1343,Spanish,USA,Director A,254,1089
+185,Movie_185,Drama,1988,177,6.1,736,Korean,USA,Director A,109,627
+186,Movie_186,Sci-Fi,1991,96,6.7,1798,French,India,Director E,259,1539
+187,Movie_187,Romance,2002,89,6.8,2007,French,USA,Director D,291,1716
+188,Movie_188,Action,2000,153,6.9,965,Japanese,France,Director D,14,951
+189,Movie_189,Sci-Fi,1981,121,5.8,398,Spanish,Japan,Director C,153,245
+190,Movie_190,Animation,1986,111,7.0,954,Japanese,UK,Director A,50,904
+191,Movie_191,Comedy,2001,108,6.5,1999,Hindi,USA,Director E,207,1792
+192,Movie_192,Thriller,1992,195,8.5,1159,Korean,France,Director B,63,1096
+193,Movie_193,Drama,1996,105,5.8,345,Hindi,France,Director A,125,220
+194,Movie_194,Animation,2020,143,7.1,2053,Spanish,UK,Director D,95,1958
+195,Movie_195,Romance,2019,121,8.9,1620,French,South Korea,Director B,294,1326
+196,Movie_196,Sci-Fi,2008,160,6.4,379,Korean,UK,Director A,230,149
+197,Movie_197,Action,1999,139,7.0,1234,English,South Korea,Director C,185,1049
+198,Movie_198,Animation,1985,158,7.7,1374,Japanese,Japan,Director E,44,1330
+199,Movie_199,Animation,1982,137,9.1,2252,Spanish,France,Director B,288,1964
+200,Movie_200,Sci-Fi,2012,99,9.3,1418,Japanese,USA,Director C,169,1249
+201,Movie_201,Romance,1991,85,6.1,1091,Japanese,Japan,Director E,48,1043
+202,Movie_202,Drama,2003,127,9.1,1530,Japanese,Japan,Director C,272,1258
+203,Movie_203,Romance,2021,122,5.3,1657,English,UK,Director D,31,1626
+204,Movie_204,Romance,2022,196,7.7,676,Hindi,South Korea,Director A,150,526
+205,Movie_205,Comedy,1999,163,8.1,1964,Japanese,India,Director E,77,1887
+206,Movie_206,Thriller,2004,162,8.6,692,Hindi,France,Director E,48,644
+207,Movie_207,Romance,2007,145,6.6,1385,Korean,South Korea,Director B,52,1333
+208,Movie_208,Animation,2011,104,6.0,823,Hindi,India,Director A,114,709
+209,Movie_209,Animation,1986,144,8.5,1895,French,UK,Director A,156,1739
+210,Movie_210,Animation,2019,96,7.7,1981,Hindi,India,Director B,177,1804
+211,Movie_211,Sci-Fi,1982,132,6.6,1575,French,India,Director D,89,1486
+212,Movie_212,Romance,2008,109,7.4,1700,Korean,Japan,Director B,150,1550
+213,Movie_213,Thriller,2008,139,8.5,1592,Japanese,UK,Director E,193,1399
+214,Movie_214,Drama,1992,182,7.7,2207,Korean,USA,Director D,219,1988
+215,Movie_215,Action,2013,188,5.6,1340,English,India,Director C,195,1145
+216,Movie_216,Thriller,1989,186,7.0,2099,Hindi,Japan,Director C,235,1864
+217,Movie_217,Action,2005,144,6.7,877,Japanese,USA,Director C,18,859
+218,Movie_218,Comedy,1986,187,8.2,186,Korean,India,Director B,119,67
+219,Movie_219,Animation,2010,169,8.7,621,French,Japan,Director D,24,597
+220,Movie_220,Action,1981,112,6.0,1872,Hindi,UK,Director E,7,1865
+221,Movie_221,Action,1998,110,6.4,1151,English,India,Director D,275,876
+222,Movie_222,Action,2011,156,7.4,377,French,UK,Director E,239,138
+223,Movie_223,Drama,1998,134,5.0,1609,Korean,India,Director E,128,1481
+224,Movie_224,Romance,2022,90,7.4,611,Korean,USA,Director E,218,393
+225,Movie_225,Animation,2012,150,5.1,1332,Japanese,USA,Director D,283,1049
+226,Movie_226,Romance,1981,125,8.5,725,Korean,India,Director A,196,529
+227,Movie_227,Action,2002,149,6.5,458,French,India,Director D,175,283
+228,Movie_228,Drama,1988,88,8.2,1553,Japanese,USA,Director C,250,1303
+229,Movie_229,Animation,1992,193,5.2,207,Korean,UK,Director D,108,99
+230,Movie_230,Comedy,1982,176,7.9,1262,Korean,South Korea,Director A,283,979
+231,Movie_231,Action,2003,135,9.0,743,French,Japan,Director D,174,569
+232,Movie_232,Sci-Fi,2024,143,6.7,570,Spanish,South Korea,Director A,178,392
+233,Movie_233,Sci-Fi,2018,185,5.8,393,Korean,South Korea,Director A,222,171
+234,Movie_234,Romance,1998,119,7.0,726,French,Japan,Director B,45,681
+235,Movie_235,Sci-Fi,1982,173,8.9,961,Korean,UK,Director D,232,729
+236,Movie_236,Animation,1983,89,8.0,1464,Japanese,South Korea,Director E,145,1319
+237,Movie_237,Action,1989,188,7.7,2047,Japanese,USA,Director B,86,1961
+238,Movie_238,Animation,2021,126,6.6,532,Spanish,USA,Director E,39,493
+239,Movie_239,Sci-Fi,2003,127,7.0,1483,English,UK,Director B,83,1400
+240,Movie_240,Sci-Fi,2000,163,6.3,1037,English,USA,Director B,276,761
+241,Movie_241,Sci-Fi,2015,95,6.2,1330,Korean,France,Director D,260,1070
+242,Movie_242,Comedy,2024,197,9.5,1377,Hindi,USA,Director B,114,1263
+243,Movie_243,Drama,2008,91,8.6,977,Korean,France,Director C,42,935
+244,Movie_244,Thriller,1998,194,6.3,1174,Hindi,France,Director B,38,1136
+245,Movie_245,Drama,1987,105,8.6,1241,Hindi,Japan,Director A,190,1051
+246,Movie_246,Thriller,2003,139,8.6,1333,Spanish,India,Director E,189,1144
+247,Movie_247,Comedy,2005,171,8.2,193,Spanish,Japan,Director D,49,144
+248,Movie_248,Drama,2000,162,5.3,460,Japanese,France,Director E,299,161
+249,Movie_249,Animation,2015,161,7.6,453,Hindi,Japan,Director E,181,272
+250,Movie_250,Action,2013,99,6.4,1745,Hindi,South Korea,Director B,33,1712
+251,Movie_251,Thriller,1998,188,5.4,2132,Hindi,France,Director E,182,1950
+252,Movie_252,Romance,1999,158,7.4,411,Spanish,France,Director B,145,266
+253,Movie_253,Romance,2019,172,9.1,443,Korean,UK,Director A,83,360
+254,Movie_254,Action,2021,178,7.6,195,French,India,Director E,19,176
+255,Movie_255,Romance,1981,143,9.0,1493,Spanish,South Korea,Director C,218,1275
+256,Movie_256,Animation,2023,131,6.3,763,English,France,Director A,252,511
+257,Movie_257,Sci-Fi,2010,139,5.9,995,Spanish,India,Director C,85,910
+258,Movie_258,Animation,2002,131,5.6,1681,Korean,UK,Director E,168,1513
+259,Movie_259,Drama,2009,95,6.2,722,Hindi,India,Director A,59,663
+260,Movie_260,Sci-Fi,2019,133,6.1,634,Hindi,South Korea,Director E,30,604
+261,Movie_261,Animation,1990,143,9.5,563,Japanese,Japan,Director C,165,398
+262,Movie_262,Action,2005,144,7.1,316,Hindi,India,Director E,259,57
+263,Movie_263,Action,1998,143,7.7,294,French,France,Director D,185,109
+264,Movie_264,Action,1986,135,5.6,1260,Korean,France,Director C,151,1109
+265,Movie_265,Action,2005,86,7.6,970,Hindi,South Korea,Director E,211,759
+266,Movie_266,Sci-Fi,2012,137,8.4,312,Korean,UK,Director E,152,160
+267,Movie_267,Action,2005,127,8.6,338,Korean,UK,Director C,65,273
+268,Movie_268,Thriller,2012,131,7.3,495,English,USA,Director B,78,417
+269,Movie_269,Sci-Fi,2013,138,5.7,1831,Spanish,India,Director C,175,1656
+270,Movie_270,Sci-Fi,2019,174,8.8,510,Spanish,South Korea,Director E,168,342
+271,Movie_271,Sci-Fi,2016,118,7.1,1365,English,South Korea,Director C,265,1100
+272,Movie_272,Thriller,1999,181,9.0,924,French,France,Director A,61,863
+273,Movie_273,Romance,2017,153,6.0,800,English,UK,Director D,247,553
+274,Movie_274,Romance,2019,179,8.8,1175,Hindi,France,Director B,92,1083
+275,Movie_275,Romance,1987,104,5.1,1203,Korean,Japan,Director B,21,1182
+276,Movie_276,Drama,2006,144,8.5,1640,Japanese,France,Director A,216,1424
+277,Movie_277,Drama,2015,121,9.5,1147,Japanese,UK,Director D,75,1072
+278,Movie_278,Drama,2009,196,7.4,2134,Spanish,South Korea,Director C,165,1969
+279,Movie_279,Drama,1997,151,6.3,655,Korean,South Korea,Director B,252,403
+280,Movie_280,Sci-Fi,2002,151,9.2,914,French,South Korea,Director C,255,659
+281,Movie_281,Romance,2014,128,9.0,1251,Japanese,South Korea,Director B,67,1184
+282,Movie_282,Comedy,1985,124,9.2,249,French,South Korea,Director D,153,96
+283,Movie_283,Animation,2014,114,9.2,537,French,South Korea,Director B,114,423
+284,Movie_284,Romance,2017,110,6.1,1330,French,UK,Director B,60,1270
+285,Movie_285,Action,2006,122,8.2,241,English,France,Director B,124,117
+286,Movie_286,Thriller,1990,132,7.9,1992,Japanese,Japan,Director B,7,1985
+287,Movie_287,Comedy,2021,87,9.1,819,English,France,Director E,152,667
+288,Movie_288,Romance,1982,196,9.1,1228,Japanese,India,Director A,123,1105
+289,Movie_289,Sci-Fi,1991,199,8.4,1831,Korean,USA,Director A,208,1623
+290,Movie_290,Thriller,1986,198,9.4,1330,Korean,Japan,Director E,157,1173
+291,Movie_291,Drama,2012,139,6.2,1294,English,South Korea,Director B,273,1021
+292,Movie_292,Comedy,1991,81,8.3,1576,Korean,UK,Director B,239,1337
+293,Movie_293,Animation,2020,194,6.8,1355,Japanese,UK,Director C,94,1261
+294,Movie_294,Romance,1986,103,9.4,879,Japanese,South Korea,Director B,49,830
+295,Movie_295,Sci-Fi,1995,137,8.4,552,Korean,South Korea,Director E,8,544
+296,Movie_296,Comedy,2021,126,8.1,331,English,France,Director A,298,33
+297,Movie_297,Drama,2005,167,7.3,881,French,South Korea,Director A,243,638
+298,Movie_298,Thriller,1994,108,9.3,918,Japanese,India,Director D,156,762
+299,Movie_299,Romance,2015,196,7.1,1057,Spanish,France,Director B,196,861
+300,Movie_300,Animation,2018,191,8.5,1534,Spanish,Japan,Director E,131,1403
+301,Movie_301,Thriller,1987,87,8.7,359,Spanish,India,Director E,190,169
+302,Movie_302,Drama,2000,189,7.3,595,English,France,Director B,279,316
+303,Movie_303,Thriller,2008,183,5.3,451,Hindi,UK,Director D,255,196
+304,Movie_304,Action,2015,139,8.0,1402,Korean,France,Director A,238,1164
+305,Movie_305,Animation,1980,175,6.0,738,English,USA,Director D,207,531
+306,Movie_306,Action,2014,87,9.2,1625,English,Japan,Director A,181,1444
+307,Movie_307,Drama,1988,178,7.9,998,French,France,Director D,151,847
+308,Movie_308,Sci-Fi,2008,191,9.1,2031,Japanese,Japan,Director A,196,1835
+309,Movie_309,Romance,2002,95,5.8,563,Spanish,Japan,Director E,281,282
+310,Movie_310,Drama,1980,176,5.1,1570,Korean,Japan,Director E,70,1500
+311,Movie_311,Sci-Fi,1994,111,7.1,1321,Hindi,South Korea,Director B,222,1099
+312,Movie_312,Animation,2022,133,7.8,137,English,India,Director B,62,75
+313,Movie_313,Thriller,1982,137,7.7,255,French,USA,Director B,39,216
+314,Movie_314,Sci-Fi,1994,149,6.0,860,English,India,Director E,27,833
+315,Movie_315,Animation,2016,120,7.6,642,French,South Korea,Director B,153,489
+316,Movie_316,Drama,2022,146,6.0,1963,Korean,South Korea,Director A,159,1804
+317,Movie_317,Thriller,1991,160,8.1,2242,Spanish,Japan,Director A,290,1952
+318,Movie_318,Romance,2022,128,8.5,2119,Korean,France,Director D,181,1938
+319,Movie_319,Comedy,2004,103,8.4,529,Japanese,India,Director B,214,315
+320,Movie_320,Romance,1989,183,7.1,1924,English,UK,Director D,158,1766
+321,Movie_321,Thriller,1988,129,6.1,1369,Hindi,South Korea,Director A,218,1151
+322,Movie_322,Comedy,1985,148,8.3,1979,Hindi,USA,Director C,235,1744
+323,Movie_323,Thriller,2018,85,8.9,1587,Hindi,UK,Director E,198,1389
+324,Movie_324,Drama,2001,118,9.3,1107,English,India,Director B,116,991
+325,Movie_325,Animation,2010,197,6.1,1604,Spanish,France,Director B,65,1539
+326,Movie_326,Drama,2015,121,8.5,2092,Japanese,Japan,Director E,208,1884
+327,Movie_327,Comedy,2003,145,9.0,829,Japanese,USA,Director D,188,641
+328,Movie_328,Drama,2003,120,6.9,2050,Spanish,India,Director B,168,1882
+329,Movie_329,Thriller,2017,154,8.2,557,Korean,India,Director B,13,544
+330,Movie_330,Sci-Fi,2016,186,6.1,654,Spanish,France,Director C,173,481
+331,Movie_331,Animation,2011,172,7.9,1709,Japanese,Japan,Director B,136,1573
+332,Movie_332,Drama,2014,142,5.8,541,Spanish,France,Director A,185,356
+333,Movie_333,Animation,1984,200,8.7,352,English,USA,Director D,273,79
+334,Movie_334,Romance,1994,88,8.2,1810,English,India,Director E,75,1735
+335,Movie_335,Action,2019,161,8.0,1012,Spanish,Japan,Director D,238,774
+336,Movie_336,Thriller,2015,132,5.1,36,Spanish,France,Director C,13,23
+337,Movie_337,Action,2012,184,8.1,876,Japanese,India,Director A,279,597
+338,Movie_338,Drama,1995,104,7.8,1137,Korean,South Korea,Director C,54,1083
+339,Movie_339,Comedy,2005,138,7.5,379,French,India,Director C,208,171
+340,Movie_340,Animation,2021,177,5.1,1394,Japanese,Japan,Director D,46,1348
+341,Movie_341,Action,2020,81,8.2,1271,English,Japan,Director D,287,984
+342,Movie_342,Animation,1986,194,7.4,1342,English,India,Director B,174,1168
+343,Movie_343,Comedy,1982,198,5.3,1278,Korean,UK,Director E,295,983
+344,Movie_344,Animation,2000,82,9.3,398,Spanish,India,Director D,21,377
+345,Movie_345,Drama,2016,110,7.6,666,Japanese,France,Director E,44,622
+346,Movie_346,Animation,1988,181,9.4,970,French,USA,Director E,174,796
+347,Movie_347,Action,2007,109,8.8,301,Korean,UK,Director E,182,119
+348,Movie_348,Animation,2000,83,7.9,2202,Japanese,Japan,Director B,208,1994
+349,Movie_349,Sci-Fi,2007,103,8.1,1329,French,Japan,Director A,187,1142
+350,Movie_350,Drama,1984,90,6.2,1800,Japanese,France,Director B,156,1644
+351,Movie_351,Comedy,1986,91,5.0,862,Korean,Japan,Director C,204,658
+352,Movie_352,Drama,1985,103,6.9,362,Spanish,UK,Director E,143,219
+353,Movie_353,Action,1985,125,7.5,434,Spanish,UK,Director C,213,221
+354,Movie_354,Comedy,2006,129,8.5,237,French,UK,Director B,202,35
+355,Movie_355,Drama,2023,128,5.8,1374,Korean,South Korea,Director C,297,1077
+356,Movie_356,Action,1990,135,6.2,565,Korean,Japan,Director A,257,308
+357,Movie_357,Drama,2020,143,7.7,714,Hindi,Japan,Director A,189,525
+358,Movie_358,Action,2005,122,8.8,707,Japanese,South Korea,Director D,74,633
+359,Movie_359,Animation,2021,156,5.6,1067,Korean,UK,Director B,176,891
+360,Movie_360,Drama,2005,120,6.3,903,French,France,Director D,250,653
+361,Movie_361,Drama,2000,128,6.3,1910,Japanese,South Korea,Director A,299,1611
+362,Movie_362,Thriller,2014,103,8.1,712,Spanish,USA,Director D,293,419
+363,Movie_363,Animation,1998,186,8.1,1019,Japanese,France,Director D,112,907
+364,Movie_364,Comedy,1995,112,8.0,1383,French,Japan,Director D,76,1307
+365,Movie_365,Thriller,2010,154,6.8,971,Spanish,France,Director D,42,929
+366,Movie_366,Animation,2003,169,9.0,368,Spanish,UK,Director A,283,85
+367,Movie_367,Drama,2022,165,6.6,1644,French,UK,Director A,60,1584
+368,Movie_368,Romance,2021,131,9.4,1624,Korean,Japan,Director A,293,1331
+369,Movie_369,Comedy,1994,145,8.4,221,Spanish,UK,Director E,10,211
+370,Movie_370,Comedy,2005,139,8.5,1040,Spanish,France,Director E,118,922
+371,Movie_371,Action,2010,93,6.3,798,English,USA,Director B,82,716
+372,Movie_372,Comedy,2009,180,5.9,831,Japanese,South Korea,Director D,183,648
+373,Movie_373,Romance,2024,137,6.4,961,Korean,USA,Director A,54,907
+374,Movie_374,Comedy,2021,93,8.0,1765,Hindi,France,Director B,16,1749
+375,Movie_375,Thriller,1990,122,7.5,636,Japanese,India,Director D,269,367
+376,Movie_376,Romance,2022,135,6.8,490,French,UK,Director B,99,391
+377,Movie_377,Sci-Fi,2004,80,8.2,1457,Hindi,South Korea,Director A,235,1222
+378,Movie_378,Animation,2014,103,6.6,518,Hindi,Japan,Director A,300,218
+379,Movie_379,Animation,2011,147,9.3,1522,Korean,UK,Director D,139,1383
+380,Movie_380,Action,2002,125,8.8,1417,Spanish,India,Director C,205,1212
+381,Movie_381,Drama,2000,95,6.1,1434,English,India,Director C,48,1386
+382,Movie_382,Sci-Fi,2006,156,5.6,1133,Japanese,Japan,Director B,77,1056
+383,Movie_383,Thriller,2024,197,7.9,1565,Hindi,UK,Director B,254,1311
+384,Movie_384,Drama,1991,120,8.8,856,Spanish,USA,Director C,255,601
+385,Movie_385,Drama,1992,184,6.7,1011,Spanish,UK,Director D,9,1002
+386,Movie_386,Sci-Fi,2006,170,8.8,1626,Japanese,India,Director A,214,1412
+387,Movie_387,Animation,1994,117,5.1,367,Hindi,UK,Director C,294,73
+388,Movie_388,Sci-Fi,2016,175,8.5,1699,Japanese,UK,Director E,91,1608
+389,Movie_389,Action,1997,179,7.4,1244,Korean,UK,Director A,62,1182
+390,Movie_390,Drama,2007,93,8.3,1358,French,India,Director C,230,1128
+391,Movie_391,Comedy,2002,190,8.7,952,Japanese,USA,Director B,21,931
+392,Movie_392,Romance,2017,168,6.6,1782,French,UK,Director D,112,1670
+393,Movie_393,Drama,1993,184,5.9,1360,English,UK,Director C,89,1271
+394,Movie_394,Thriller,2014,101,6.5,862,French,South Korea,Director C,277,585
+395,Movie_395,Animation,2012,195,8.1,855,English,India,Director D,298,557
+396,Movie_396,Animation,2021,96,8.2,612,Hindi,India,Director B,35,577
+397,Movie_397,Drama,2023,130,7.2,1875,Spanish,France,Director C,169,1706
+398,Movie_398,Sci-Fi,1984,161,8.6,995,English,Japan,Director E,217,778
+399,Movie_399,Comedy,2009,142,6.5,1579,English,France,Director A,147,1432
+400,Movie_400,Romance,2024,125,8.8,1549,Spanish,Japan,Director B,239,1310
+401,Movie_401,Drama,2011,114,6.5,1923,Korean,South Korea,Director E,224,1699
+402,Movie_402,Thriller,2011,180,6.5,577,French,USA,Director A,300,277
+403,Movie_403,Animation,2009,82,5.6,1347,Hindi,Japan,Director D,55,1292
+404,Movie_404,Sci-Fi,1992,168,9.1,1977,French,South Korea,Director B,5,1972
+405,Movie_405,Romance,2003,112,5.4,346,French,France,Director B,145,201
+406,Movie_406,Romance,1999,172,8.1,852,Hindi,Japan,Director A,31,821
+407,Movie_407,Drama,2010,89,5.6,65,Hindi,UK,Director D,53,12
+408,Movie_408,Romance,2001,184,5.5,35,Japanese,France,Director B,9,26
+409,Movie_409,Drama,2004,91,8.3,404,English,USA,Director C,249,155
+410,Movie_410,Comedy,1988,128,8.5,2007,Hindi,France,Director B,193,1814
+411,Movie_411,Thriller,1980,158,7.9,1136,Japanese,South Korea,Director B,40,1096
+412,Movie_412,Sci-Fi,2019,167,7.0,1975,Hindi,USA,Director A,82,1893
+413,Movie_413,Action,2017,173,6.7,1627,Japanese,South Korea,Director B,76,1551
+414,Movie_414,Romance,1985,111,7.5,708,Spanish,France,Director E,131,577
+415,Movie_415,Romance,1981,188,8.8,1755,Korean,India,Director E,150,1605
+416,Movie_416,Romance,2005,117,7.9,661,Hindi,Japan,Director D,265,396
+417,Movie_417,Sci-Fi,2020,156,5.3,565,English,South Korea,Director C,62,503
+418,Movie_418,Animation,2016,133,6.6,874,French,India,Director D,72,802
+419,Movie_419,Thriller,1984,81,6.2,86,English,USA,Director D,42,44
+420,Movie_420,Romance,2012,178,6.9,860,French,Japan,Director A,264,596
+421,Movie_421,Thriller,1989,115,5.4,1390,English,UK,Director B,279,1111
+422,Movie_422,Comedy,2005,155,7.9,1192,French,France,Director A,84,1108
+423,Movie_423,Sci-Fi,1995,87,6.1,1603,Japanese,USA,Director D,163,1440
+424,Movie_424,Romance,2022,174,5.8,676,English,France,Director B,33,643
+425,Movie_425,Sci-Fi,2002,146,7.3,355,French,South Korea,Director B,10,345
+426,Movie_426,Romance,1997,173,9.0,464,English,South Korea,Director D,195,269
+427,Movie_427,Action,1996,171,9.4,1226,French,USA,Director D,144,1082
+428,Movie_428,Comedy,1983,143,8.9,1294,Hindi,South Korea,Director B,238,1056
+429,Movie_429,Action,2016,166,8.3,1728,Hindi,France,Director E,135,1593
+430,Movie_430,Animation,1980,111,5.2,106,Korean,Japan,Director B,6,100
+431,Movie_431,Animation,1982,150,8.6,2013,French,France,Director D,96,1917
+432,Movie_432,Drama,2006,197,8.2,788,Korean,USA,Director E,119,669
+433,Movie_433,Thriller,2023,195,5.2,449,Hindi,UK,Director A,195,254
+434,Movie_434,Sci-Fi,1998,179,8.8,361,Korean,USA,Director E,210,151
+435,Movie_435,Comedy,1992,117,7.5,264,Korean,France,Director E,238,26
+436,Movie_436,Comedy,2017,143,9.5,1089,Hindi,France,Director E,129,960
+437,Movie_437,Action,2006,83,6.0,448,Korean,France,Director A,130,318
+438,Movie_438,Animation,2022,128,8.8,188,French,South Korea,Director A,176,12
+439,Movie_439,Drama,2006,142,9.3,1205,Hindi,France,Director C,110,1095
+440,Movie_440,Drama,2013,132,8.2,151,Korean,Japan,Director A,52,99
+441,Movie_441,Drama,2020,184,6.8,1098,Spanish,UK,Director A,53,1045
+442,Movie_442,Drama,1995,117,6.2,1593,Korean,Japan,Director C,227,1366
+443,Movie_443,Comedy,1994,89,9.2,1104,Hindi,UK,Director A,167,937
+444,Movie_444,Drama,2008,139,6.4,310,English,UK,Director C,84,226
+445,Movie_445,Comedy,2009,113,8.8,1046,English,India,Director C,111,935
+446,Movie_446,Animation,2000,98,5.4,475,Hindi,South Korea,Director D,25,450
+447,Movie_447,Romance,1999,113,8.7,377,Hindi,USA,Director D,267,110
+448,Movie_448,Romance,2015,111,5.4,1384,English,India,Director A,236,1148
+449,Movie_449,Animation,1994,96,5.9,147,Japanese,South Korea,Director A,11,136
+450,Movie_450,Animation,1984,82,9.5,2025,Hindi,France,Director D,137,1888
+451,Movie_451,Animation,2001,95,5.2,268,Japanese,USA,Director B,70,198
+452,Movie_452,Animation,2005,143,5.1,1195,French,Japan,Director B,298,897
+453,Movie_453,Drama,1997,115,7.0,635,Hindi,USA,Director E,186,449
+454,Movie_454,Comedy,2011,132,9.0,1465,Japanese,USA,Director A,130,1335
+455,Movie_455,Drama,2006,105,7.9,942,Spanish,India,Director E,148,794
+456,Movie_456,Animation,2002,141,7.5,807,Japanese,South Korea,Director E,14,793
+457,Movie_457,Sci-Fi,1997,103,5.1,930,Spanish,India,Director A,262,668
+458,Movie_458,Animation,2010,147,6.6,277,Spanish,India,Director B,148,129
+459,Movie_459,Romance,1995,114,7.4,573,French,USA,Director B,56,517
+460,Movie_460,Animation,2004,125,9.2,2042,Hindi,India,Director B,299,1743
+461,Movie_461,Romance,2024,125,9.1,1828,English,France,Director C,167,1661
+462,Movie_462,Drama,2016,104,8.8,1459,Japanese,UK,Director C,295,1164
+463,Movie_463,Action,1985,87,6.0,1108,Hindi,USA,Director E,94,1014
+464,Movie_464,Comedy,2019,105,8.6,260,Korean,France,Director B,249,11
+465,Movie_465,Action,1989,155,8.2,301,Hindi,USA,Director E,170,131
+466,Movie_466,Action,2003,170,9.2,2168,Japanese,UK,Director A,191,1977
+467,Movie_467,Comedy,1988,100,8.3,805,Japanese,France,Director D,177,628
+468,Movie_468,Romance,2015,168,9.0,533,Spanish,South Korea,Director B,167,366
+469,Movie_469,Comedy,2024,117,5.6,878,French,USA,Director E,94,784
+470,Movie_470,Animation,2016,84,5.8,1957,Korean,UK,Director B,205,1752
+471,Movie_471,Sci-Fi,1989,122,8.4,517,Hindi,South Korea,Director C,294,223
+472,Movie_472,Action,2022,161,8.3,1402,Korean,Japan,Director A,90,1312
+473,Movie_473,Drama,2024,88,6.6,579,English,France,Director A,140,439
+474,Movie_474,Sci-Fi,2006,101,9.0,829,Japanese,Japan,Director C,29,800
+475,Movie_475,Action,2010,180,8.9,1062,French,France,Director B,284,778
+476,Movie_476,Action,1982,117,5.1,1022,Korean,USA,Director A,88,934
+477,Movie_477,Sci-Fi,1990,173,5.3,538,English,South Korea,Director E,180,358
+478,Movie_478,Action,2007,200,7.9,1704,Spanish,Japan,Director B,252,1452
+479,Movie_479,Comedy,1993,104,6.8,249,Spanish,France,Director E,32,217
+480,Movie_480,Comedy,1999,110,5.4,1502,Japanese,UK,Director E,140,1362
+481,Movie_481,Action,2003,80,6.9,580,Korean,France,Director E,256,324
+482,Movie_482,Action,1981,106,5.8,668,Korean,USA,Director D,250,418
+483,Movie_483,Animation,2005,140,7.2,705,French,South Korea,Director A,64,641
+484,Movie_484,Drama,2003,193,6.7,1086,Hindi,Japan,Director A,283,803
+485,Movie_485,Sci-Fi,1996,108,8.8,1049,Spanish,USA,Director B,139,910
+486,Movie_486,Romance,2002,183,7.4,239,Spanish,India,Director E,54,185
+487,Movie_487,Sci-Fi,2013,133,9.3,1767,French,Japan,Director E,36,1731
+488,Movie_488,Comedy,1985,130,9.1,1110,French,USA,Director E,125,985
+489,Movie_489,Thriller,2016,166,9.4,2151,Hindi,USA,Director D,297,1854
+490,Movie_490,Drama,1993,183,5.9,2046,English,Japan,Director A,93,1953
+491,Movie_491,Animation,2020,98,8.8,650,Korean,South Korea,Director A,227,423
+492,Movie_492,Thriller,2005,150,6.5,853,Korean,UK,Director D,49,804
+493,Movie_493,Romance,2019,155,7.4,1631,Japanese,USA,Director D,11,1620
+494,Movie_494,Thriller,2017,154,8.4,394,English,USA,Director E,81,313
+495,Movie_495,Comedy,2014,192,6.5,1675,Japanese,South Korea,Director D,56,1619
+496,Movie_496,Thriller,2010,84,5.8,1434,Japanese,India,Director E,253,1181
+497,Movie_497,Sci-Fi,2001,168,6.1,299,French,Japan,Director C,210,89
+498,Movie_498,Comedy,1999,119,6.3,246,Japanese,France,Director A,195,51
+499,Movie_499,Comedy,2008,179,8.7,406,Korean,France,Director D,121,285
+500,Movie_500,Sci-Fi,1993,196,8.7,444,French,Japan,Director E,50,394
+501,Movie_501,Action,2012,181,5.7,1887,Korean,France,Director E,196,1691
+502,Movie_502,Animation,2013,192,7.6,498,Hindi,India,Director B,211,287
+503,Movie_503,Action,2009,86,9.1,554,French,India,Director C,34,520
+504,Movie_504,Sci-Fi,2012,130,7.9,1889,English,France,Director A,193,1696
+505,Movie_505,Sci-Fi,2018,137,5.8,900,Japanese,UK,Director E,128,772
+506,Movie_506,Drama,1996,175,8.7,899,English,South Korea,Director A,184,715
+507,Movie_507,Drama,2016,179,9.3,313,Hindi,France,Director B,202,111
+508,Movie_508,Romance,2006,145,5.1,671,French,USA,Director D,110,561
+509,Movie_509,Drama,2018,182,5.0,1407,Korean,UK,Director C,72,1335
+510,Movie_510,Sci-Fi,2002,138,6.1,1022,Japanese,South Korea,Director E,145,877
+511,Movie_511,Action,1980,145,9.5,1415,Korean,UK,Director E,208,1207
+512,Movie_512,Romance,1986,141,5.3,770,Korean,France,Director C,149,621
+513,Movie_513,Romance,2021,118,5.8,690,Spanish,India,Director A,146,544
+514,Movie_514,Comedy,2023,97,8.2,1573,French,Japan,Director C,211,1362
+515,Movie_515,Sci-Fi,2005,129,8.3,2004,Spanish,France,Director E,137,1867
+516,Movie_516,Romance,1994,167,7.4,814,Japanese,France,Director C,102,712
+517,Movie_517,Animation,1990,187,8.0,888,Spanish,India,Director C,264,624
+518,Movie_518,Drama,1996,172,8.6,1028,Hindi,France,Director C,54,974
+519,Movie_519,Comedy,1994,175,8.9,515,Japanese,South Korea,Director C,50,465
+520,Movie_520,Comedy,2009,188,5.5,1347,English,France,Director E,138,1209
+521,Movie_521,Drama,2012,95,8.9,1018,Japanese,UK,Director C,41,977
+522,Movie_522,Animation,1989,97,9.5,336,Korean,Japan,Director E,216,120
+523,Movie_523,Comedy,1991,179,5.4,542,Korean,France,Director B,239,303
+524,Movie_524,Action,1980,137,6.2,1474,Hindi,UK,Director B,165,1309
+525,Movie_525,Animation,1985,96,7.8,1873,French,Japan,Director D,255,1618
+526,Movie_526,Sci-Fi,2004,80,5.2,2210,Hindi,France,Director C,224,1986
+527,Movie_527,Comedy,2013,104,5.1,1848,English,France,Director B,12,1836
+528,Movie_528,Comedy,1999,96,5.5,1550,Spanish,UK,Director C,120,1430
+529,Movie_529,Animation,1982,118,9.3,233,Japanese,France,Director E,90,143
+530,Movie_530,Sci-Fi,2023,97,6.5,974,Japanese,South Korea,Director B,273,701
+531,Movie_531,Animation,2005,82,6.0,2040,French,India,Director B,89,1951
+532,Movie_532,Thriller,1990,95,6.6,1233,French,USA,Director D,16,1217
+533,Movie_533,Thriller,2019,86,7.7,1724,English,France,Director A,135,1589
+534,Movie_534,Romance,1987,133,7.0,123,English,UK,Director C,15,108
+535,Movie_535,Drama,1993,168,8.1,1694,English,South Korea,Director D,247,1447
+536,Movie_536,Thriller,1997,159,7.7,1422,Hindi,Japan,Director A,56,1366
+537,Movie_537,Thriller,1987,116,5.5,1748,English,Japan,Director B,266,1482
+538,Movie_538,Comedy,2013,105,6.6,1710,Japanese,South Korea,Director B,107,1603
+539,Movie_539,Sci-Fi,1993,168,9.2,1157,Korean,India,Director A,25,1132
+540,Movie_540,Action,1987,186,7.6,1396,Japanese,India,Director A,11,1385
+541,Movie_541,Romance,1986,195,6.2,429,Hindi,Japan,Director C,266,163
+542,Movie_542,Action,1986,184,5.8,1100,English,South Korea,Director C,140,960
+543,Movie_543,Romance,1987,92,8.8,1047,English,USA,Director B,165,882
+544,Movie_544,Comedy,2008,159,6.2,775,French,USA,Director C,92,683
+545,Movie_545,Action,2005,131,9.3,564,Korean,Japan,Director D,180,384
+546,Movie_546,Animation,1990,94,5.6,1558,French,USA,Director B,220,1338
+547,Movie_547,Thriller,2010,182,7.6,920,Japanese,India,Director E,58,862
+548,Movie_548,Comedy,2019,83,8.9,1804,French,India,Director D,199,1605
+549,Movie_549,Sci-Fi,2008,85,5.3,495,French,South Korea,Director A,254,241
+550,Movie_550,Romance,2016,172,7.5,1854,French,South Korea,Director E,273,1581
